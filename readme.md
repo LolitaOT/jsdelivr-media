@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/lolitaot/jsdelivr-media/demo.png
